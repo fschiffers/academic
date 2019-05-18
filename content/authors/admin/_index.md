@@ -10,31 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: Northwestern University
-  url: ""
+  url: "https://compphotolab.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational photography, machine learning and image reconstruction.
 
 interests:
-- Artificial Intelligence
 - Computational Imaging
 - Machine Learning for Image Reconstruction and Restoration
+- Imaging for Medicine and Cultural Heritage
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Northwestern University
     year: 2018-2022
-  - course: MEng in Artificial Intelligence
+  - course: MSc in Artificial Intelligence
     institution: FAU Erlangen
     year: 2018
+    - course: MSc in Advanced Optical Technologies
+    institution: FAU Erlangen and Universite de Bordeaux
+    year: 2018
   - course: BSc in Physics
-    institution: FAU Erlangen
+    institution: FAU Erlangen and Universidad de Cantabria
     year: 2015
 
 # Social/Academic Networking
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Florian graduated 2017 from[ FAU Erlangen](https://www.fau.eu/) in Germany where he received a M.Sc. in Physics and a M.Sc.Hons in [Advanced Optical Technologies](http://www.aot.uni-erlangen.de/maot/home.html). He wrote his thesis on Computed Tomography in Talbot-Lau X-ray Phase-Contrast Imaging under the joint supervision of [Prof. Gisela Anton](https://ecap.nat.fau.de/index.php/person/prof-anton/), [Dr-Ing Christian Riess](https://www5.cs.fau.de/en/our-team/riess-christian) and [Prof. Andreas Maier](https://www5.cs.fau.de/en/our-team/maier-andreas). Prior to this Florian was conducting research in the field of optical 3D sensing in the group of [Prof. Gerd Häusler](https://www.mpl.mpg.de/en/institute/the-institute/people/institute/institute/ma/haeusler.html?no_cache=1&cHash=1e4fb2efcd69c36907bf720a8bbba519) (2012-2015). Later, he worked at [Siemens Healthineers](https://www.healthcare.siemens.com/) on a pre-development project in robotics for image-guided surgery. After graduation he spent six months at the Peking University in China with the Department of Biomedical Engineering lead by [Prof. Qiushi Ren](https://bme.gatech.edu/bme/faculty/Qiushi-Ren) working on machine learning applications in Ophthalmology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+At Northwestern Florian is working on algorithm development for inverse problems. He is especially interested on how to enhance conventional techniques, e.g. reconstruction based on physical models, by exploiting the power of data-driven machine learning.  His current projects include imaging through scattering media, extended depth-of-field imaging, tomographic problems with different modalities as well as topographic imaging.
