@@ -33,7 +33,7 @@ education:
   - course: MSc in Artificial Intelligence
     institution: FAU Erlangen
     year: 2018
-    - course: MSc in Advanced Optical Technologies
+  - course: MSc in Advanced Optical Technologies
     institution: FAU Erlangen and Universite de Bordeaux
     year: 2018
   - course: BSc in Physics
@@ -48,12 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=sL8QjnYAAAAJ&hl=en&oe=ASCII
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -64,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "florian.schiffers@northwestern.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,7 +69,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Florian graduated 2017 from[ FAU Erlangen](https://www.fau.eu/) in Germany where he received a M.Sc. in Physics and a M.Sc.Hons in [Advanced Optical Technologies](http://www.aot.uni-erlangen.de/maot/home.html). He wrote his thesis on Computed Tomography in Talbot-Lau X-ray Phase-Contrast Imaging under the joint supervision of [Prof. Gisela Anton](https://ecap.nat.fau.de/index.php/person/prof-anton/), [Dr-Ing Christian Riess](https://www5.cs.fau.de/en/our-team/riess-christian) and [Prof. Andreas Maier](https://www5.cs.fau.de/en/our-team/maier-andreas). Prior to this Florian was conducting research in the field of optical 3D sensing in the group of [Prof. Gerd Häusler](https://www.mpl.mpg.de/en/institute/the-institute/people/institute/institute/ma/haeusler.html?no_cache=1&cHash=1e4fb2efcd69c36907bf720a8bbba519) (2012-2015). Later, he worked at [Siemens Healthineers](https://www.healthcare.siemens.com/) on a pre-development project in robotics for image-guided surgery. After graduation he spent six months at the Peking University in China with the Department of Biomedical Engineering lead by [Prof. Qiushi Ren](https://bme.gatech.edu/bme/faculty/Qiushi-Ren) working on machine learning applications in Ophthalmology.
-
-At Northwestern Florian is working on algorithm development for inverse problems. He is especially interested on how to enhance conventional techniques, e.g. reconstruction based on physical models, by exploiting the power of data-driven machine learning.  His current projects include imaging through scattering media, extended depth-of-field imaging, tomographic problems with different modalities as well as topographic imaging.
