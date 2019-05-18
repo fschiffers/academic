@@ -30,14 +30,14 @@ education:
   - course: PhD in Artificial Intelligence
     institution: Northwestern University
     year: 2018-2022
-  - course: MSc in Artificial Intelligence
-    institution: FAU Erlangen
+  - course: [MSc in Physics](https://www.maot.studium.fau.de/)
+    institution: [FAU Erlangen](https://www.fau.de/)
     year: 2018
   - course: MSc in Advanced Optical Technologies
-    institution: FAU Erlangen and Universite de Bordeaux
+    institution: [FAU Erlangen](https://www.fau.de/) and [Université de Bordeaux](https://www.u-bordeaux.fr/)
     year: 2018
   - course: BSc in Physics
-    institution: FAU Erlangen and Universidad de Cantabria
+    institution: [FAU Erlangen](https://www.fau.de/) and [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx)
     year: 2015
 
 # Social/Academic Networking
