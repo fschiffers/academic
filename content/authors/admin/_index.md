@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
+[I'm a link](https://www.google.com)
+
 Florian graduated 2017 from FAU Erlangen in Germany where he received a M.Sc. in Physics and a M.Sc.Hons in Advanced Optical Technologies. He wrote his thesis on Computed Tomography in Talbot-Lau X-ray Phase-Contrast Imaging under the joint supervision of Prof. Gisela Anton, Dr-Ing Christian Riess and Prof. Andreas Maier.
 
 Prior to this Florian was conducting research in the field of optical 3D sensing in the group of Prof. Gerd Häusler (2012-2015). Later, he worked at Siemens Healthineers on a pre-development project in robotics for image-guided surgery. After graduation he spent six months at the Peking University in China with the Department of Biomedical Engineering lead by Prof. Qiushi Ren working on machine learning applications in Ophthalmology.
