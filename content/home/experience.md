@@ -17,11 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Visiting Scholar"
+  company = "Peking University"
+  company_url = "https://bme.gatech.edu/bme/faculty/Qiushi-Ren"
+  location = "Beijing, China"
+  date_start = "2017-06-01"
+  date_end = "2017-12-15"
+#  description = """."""
+
 [[experience]]
   title = "Research Assistant"
   company = "Siemens Healthineers"
-  company_url = ""
-  location = "California"
+  company_url = "https://www.siemens-healthineers.com/"
+  location = "Forchheim, Germany"
   date_start = "2016-03-01"
   date_end = "2018-03-31"
 #  description = """
@@ -36,7 +46,7 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "FAU Erlangen-Nuremberg"
   company_url = "http://www.optik.uni-erlangen.de/en/osmin/homepage.html"
-  location = "Forchheim, Germany"
+  location = "Erlangen, Germany"
   date_start = "2012-07-01"
   date_end = "2015-10-31"
 #  description = """."""
