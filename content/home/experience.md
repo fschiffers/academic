@@ -25,18 +25,18 @@ date_format = "Jan 2006"
   date_start = "2016-03-01"
   date_end = "2018-03-31"
   description = """
-  Responsibilities include:
+#  Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+#  * Analysing
+#  * Modelling
+#  * Deploying
     """
 
 [[experience]]
   title = "Research Assistant"
   company = "FAU Erlangen-Nuremberg"
   company_url = "http://www.optik.uni-erlangen.de/en/osmin/homepage.html"
-  location = "California"
+  location = "Erlangen, Germany"
   date_start = "2012-07-01"
   date_end = "2015-10-31"
   description = """."""
