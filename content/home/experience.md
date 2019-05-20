@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2016-03-01"
   date_end = "2018-03-31"
-  description = """
+#  description = """
 #  Responsibilities include:
 
 #  * Analysing
 #  * Modelling
 #  * Deploying
-    """
+#    """
 
 [[experience]]
   title = "Research Assistant"
@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Erlangen, Germany"
   date_start = "2012-07-01"
   date_end = "2015-10-31"
-  description = """."""
+#  description = """."""
 
 +++
